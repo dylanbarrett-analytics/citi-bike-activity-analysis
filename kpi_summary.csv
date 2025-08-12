@@ -1,0 +1,169 @@
+start_day_of_week,start_hour_label,total_trips,top_start_station,loop_trip_rate,avg_trip_duration_min,avg_trip_duration_text,avg_trip_distance_miles,avg_speed_mph,top_end_station
+Friday,1 AM,12800,Washington Ave & Park Ave,4.1,14.4,14 minutes 24 seconds,1.44,6.0,Ave A & E 14 St
+Friday,1 PM,77682,W 21 St & 6 Ave,2.8,13.3,13 minutes 18 seconds,1.2,5.41,W 31 St & 7 Ave
+Friday,10 AM,58152,Central Park S & Grand Army Plaza,2.5,12.6,12 minutes 36 seconds,1.22,5.81,W 21 St & 6 Ave
+Friday,10 PM,47729,8 Ave & W 31 St,3.0,14.8,14 minutes 48 seconds,1.64,6.65,11 Ave & W 41 St
+Friday,11 AM,62690,Central Park S & Grand Army Plaza,2.8,13.4,13 minutes 24 seconds,1.21,5.42,W 21 St & 6 Ave
+Friday,11 PM,41039,W 4 St & 7 Ave S,3.1,14.7,14 minutes 42 seconds,1.47,6.0,Canal St & Rutgers St
+Friday,12 AM,21841,W 4 St & 7 Ave S,3.1,14.4,14 minutes 24 seconds,1.44,6.0,Canal St & Rutgers St
+Friday,12 PM,71541,Central Park S & Grand Army Plaza,3.1,13.6,13 minutes 36 seconds,1.18,5.21,9 Ave & W 33 St
+Friday,2 AM,7601,W 50 St & 9 Ave,4.5,14.2,14 minutes 12 seconds,1.42,6.0,Ave A & E 14 St
+Friday,2 PM,82469,Broadway & W 58 St,3.0,14.0,14 minutes 0 seconds,1.51,6.47,W 41 St & 8 Ave
+Friday,3 AM,4674,Allen St & Rivington St,4.4,13.7,13 minutes 42 seconds,1.4,6.13,8 Ave & W 31 St
+Friday,3 PM,91482,West St & Chambers St,2.7,14.1,14 minutes 6 seconds,1.28,5.45,W 31 St & 7 Ave
+Friday,4 AM,4475,6 Ave & W 33 St,3.4,13.8,13 minutes 48 seconds,1.45,6.3,8 Ave & W 31 St
+Friday,4 PM,104135,North Moore St & Greenwich St,2.7,14.2,14 minutes 12 seconds,1.3,5.49,8 Ave & W 31 St
+Friday,5 AM,9499,W 41 St & 8 Ave,1.6,10.6,10 minutes 36 seconds,1.36,7.7,E 33 St & 1 Ave
+Friday,5 PM,121174,West St & Chambers St,2.4,14.0,14 minutes 0 seconds,1.32,5.66,11 Ave & W 41 St
+Friday,6 AM,25758,W 41 St & 8 Ave,1.2,10.4,10 minutes 24 seconds,1.74,10.04,1 Ave & E 68 St
+Friday,6 PM,106276,West St & Chambers St,2.7,13.8,13 minutes 48 seconds,1.3,5.65,11 Ave & W 41 St
+Friday,7 AM,45910,E 33 St & 1 Ave,1.4,10.8,10 minutes 48 seconds,1.31,7.28,North Moore St & Greenwich St
+Friday,7 PM,82881,Pier 61 at Chelsea Piers,2.8,14.1,14 minutes 6 seconds,1.29,5.49,10 Ave & W 14 St
+Friday,8 AM,68691,11 Ave & W 41 St,1.3,11.3,11 minutes 18 seconds,1.31,6.96,E 47 St & Park Ave
+Friday,8 PM,66219,Pier 61 at Chelsea Piers,3.0,14.3,14 minutes 18 seconds,1.29,5.41,11 Ave & W 41 St
+Friday,9 AM,66549,Broadway & E 21 St,1.7,11.6,11 minutes 36 seconds,1.25,6.47,W 18 St & 6 Ave
+Friday,9 PM,51821,10 Ave & W 14 St,3.1,14.5,14 minutes 30 seconds,1.32,5.46,11 Ave & W 41 St
+Monday,1 AM,7885,8 Ave & W 31 St,5.3,14.6,14 minutes 36 seconds,1.37,5.63,11 Ave & W 41 St
+Monday,1 PM,62296,W 21 St & 6 Ave,3.0,13.7,13 minutes 42 seconds,1.15,5.04,W 21 St & 6 Ave
+Monday,10 AM,51684,Broadway & W 53 St,2.4,12.9,12 minutes 54 seconds,1.2,5.58,Broadway & W 58 St
+Monday,10 PM,39811,Pier 40 - Hudson River Park,3.2,13.4,13 minutes 24 seconds,1.5,6.72,11 Ave & W 41 St
+Monday,11 AM,53813,Broadway & W 58 St,2.8,13.4,13 minutes 24 seconds,1.27,5.69,7 Ave & Central Park South
+Monday,11 PM,26419,W 31 St & 7 Ave,3.6,13.7,13 minutes 42 seconds,1.4,6.13,Canal St & Rutgers St
+Monday,12 AM,15931,Broadway & W 48 St,4.2,14.9,14 minutes 54 seconds,1.45,5.84,W 41 St & 8 Ave
+Monday,12 PM,60713,W 21 St & 6 Ave,3.2,13.5,13 minutes 30 seconds,1.14,5.07,W 21 St & 6 Ave
+Monday,2 AM,4492,Broadway & E 14 St,5.4,14.5,14 minutes 30 seconds,1.38,5.71,8 Ave & W 27 St
+Monday,2 PM,65317,W 21 St & 6 Ave,3.0,13.7,13 minutes 42 seconds,1.21,5.3,W 41 St & 8 Ave
+Monday,3 AM,3072,Bleecker St & Crosby St,6.1,15.0,15 minutes 0 seconds,1.41,5.64,Willoughby Ave & Hall St
+Monday,3 PM,74251,W 21 St & 6 Ave,2.7,13.8,13 minutes 48 seconds,1.25,5.43,W 31 St & 7 Ave
+Monday,4 AM,3668,6 Ave & W 33 St,3.3,12.6,12 minutes 36 seconds,1.45,6.9,University Pl & E 14 St
+Monday,4 PM,92207,North Moore St & Greenwich St,2.5,13.7,13 minutes 42 seconds,1.29,5.65,FDR Drive & E 35 St
+Monday,5 AM,10586,W 41 St & 8 Ave,1.4,10.5,10 minutes 30 seconds,1.37,7.83,E 33 St & 1 Ave
+Monday,5 PM,136215,E 47 St & Park Ave,2.0,13.5,13 minutes 30 seconds,1.34,5.96,11 Ave & W 41 St
+Monday,6 AM,31000,1 Ave & E 68 St,1.0,10.4,10 minutes 24 seconds,2.73,15.75,North Moore St & Greenwich St
+Monday,6 PM,130639,West St & Chambers St,2.2,13.4,13 minutes 24 seconds,1.31,5.87,West St & Chambers St
+Monday,7 AM,59062,E 33 St & 1 Ave,1.0,11.0,11 minutes 0 seconds,1.36,7.42,E 47 St & Park Ave
+Monday,7 PM,105690,West St & Chambers St,2.7,13.3,13 minutes 18 seconds,1.37,6.18,West St & Chambers St
+Monday,8 AM,91757,E 33 St & 1 Ave,1.0,11.6,11 minutes 36 seconds,1.33,6.88,E 47 St & Park Ave
+Monday,8 PM,76868,Pier 61 at Chelsea Piers,3.0,13.5,13 minutes 30 seconds,1.26,5.6,Pier 40 - Hudson River Park
+Monday,9 AM,70711,Broadway & W 58 St,1.5,11.7,11 minutes 42 seconds,1.23,6.31,9 Ave & W 33 St
+Monday,9 PM,53044,Pier 40 - Hudson River Park,3.1,13.4,13 minutes 24 seconds,1.3,5.82,Pier 40 - Hudson River Park
+Saturday,1 AM,22299,E 1 St & 1 Ave,3.2,14.5,14 minutes 30 seconds,1.44,5.96,Ave A & E 14 St
+Saturday,1 PM,103556,Lafayette St & E 8 St,3.1,17.5,17 minutes 30 seconds,1.4,4.8,Lafayette St & E 8 St
+Saturday,10 AM,75720,Lafayette St & E 8 St,3.1,16.3,16 minutes 18 seconds,1.39,5.12,Lafayette St & E 8 St
+Saturday,10 PM,47997,W 45 St & 8 Ave,3.6,15.6,15 minutes 36 seconds,1.63,6.27,11 Ave & W 41 St
+Saturday,11 AM,89414,Lafayette St & E 8 St,3.1,16.9,16 minutes 54 seconds,1.4,4.97,Lafayette St & E 8 St
+Saturday,11 PM,40983,W 4 St & 7 Ave S,3.3,15.4,15 minutes 24 seconds,1.47,5.73,W 4 St & 7 Ave S
+Saturday,12 AM,31416,W 4 St & 7 Ave S,3.2,15.1,15 minutes 6 seconds,1.46,5.8,Canal St & Rutgers St
+Saturday,12 PM,100170,Lafayette St & E 8 St,3.2,17.4,17 minutes 24 seconds,1.4,4.83,Lafayette St & E 8 St
+Saturday,2 AM,15947,Wyckoff Ave & Jefferson St,3.2,15.1,15 minutes 6 seconds,1.47,5.84,E 31 St & 3 Ave
+Saturday,2 PM,103562,Lafayette St & E 8 St,3.4,17.3,17 minutes 18 seconds,1.49,5.17,Central Park S & 6 Ave
+Saturday,3 AM,10667,E 1 St & 1 Ave,3.8,15.0,15 minutes 0 seconds,1.46,5.84,Canal St & Rutgers St
+Saturday,3 PM,103318,Central Park S & 6 Ave,3.4,16.9,16 minutes 54 seconds,1.38,4.9,Central Park S & 6 Ave
+Saturday,4 AM,6919,Suffolk St & Stanton St,3.5,14.1,14 minutes 6 seconds,1.5,6.38,Clinton St & Grand St
+Saturday,4 PM,97547,Central Park S & 6 Ave,3.7,16.9,16 minutes 54 seconds,1.35,4.79,Central Park S & 6 Ave
+Saturday,5 AM,5581,W 41 St & 8 Ave,3.2,13.9,13 minutes 54 seconds,1.46,6.3,1 Ave & E 68 St
+Saturday,5 PM,89930,Central Park S & 6 Ave,3.6,16.5,16 minutes 30 seconds,1.34,4.87,12 Ave & W 40 St
+Saturday,6 AM,11739,W 41 St & 8 Ave,2.2,12.3,12 minutes 18 seconds,3.76,18.34,1 Ave & E 68 St
+Saturday,6 PM,89376,12 Ave & W 40 St,3.4,16.3,16 minutes 18 seconds,1.36,5.01,12 Ave & W 40 St
+Saturday,7 AM,21240,E 33 St & 1 Ave,2.7,13.0,13 minutes 0 seconds,1.43,6.6,Broadway & W 58 St
+Saturday,7 PM,79988,12 Ave & W 40 St,3.7,16.0,16 minutes 0 seconds,1.34,5.03,12 Ave & W 40 St
+Saturday,8 AM,35467,Lafayette St & E 8 St,2.7,13.9,13 minutes 54 seconds,1.38,5.96,Lafayette St & E 8 St
+Saturday,8 PM,63887,12 Ave & W 40 St,3.7,16.1,16 minutes 6 seconds,1.35,5.03,11 Ave & W 41 St
+Saturday,9 AM,57882,Lafayette St & E 8 St,2.8,14.8,14 minutes 48 seconds,1.39,5.64,Lafayette St & E 8 St
+Saturday,9 PM,53109,10 Ave & W 14 St,3.7,15.5,15 minutes 30 seconds,1.36,5.26,11 Ave & W 41 St
+Sunday,1 AM,20860,Allen St & Stanton St,3.2,15.1,15 minutes 6 seconds,1.48,5.88,Ave A & E 14 St
+Sunday,1 PM,83310,12 Ave & W 40 St,3.1,15.8,15 minutes 48 seconds,1.41,5.35,10 Ave & W 14 St
+Sunday,10 AM,55326,11 Ave & W 41 St,2.9,14.3,14 minutes 18 seconds,1.3,5.45,Central Park S & 6 Ave
+Sunday,10 PM,31674,E 161 St & River Ave,3.6,14.5,14 minutes 30 seconds,1.73,7.16,11 Ave & W 41 St
+Sunday,11 AM,67304,Pier 61 at Chelsea Piers,3.0,15.1,15 minutes 6 seconds,1.31,5.21,Central Park S & 6 Ave
+Sunday,11 PM,22395,Carmine St & 6 Ave,3.7,14.6,14 minutes 36 seconds,1.43,5.88,Pier 40 - Hudson River Park
+Sunday,12 AM,28002,W 4 St & 7 Ave S,3.5,15.3,15 minutes 18 seconds,1.48,5.8,E 7 St & Ave A
+Sunday,12 PM,76693,Central Park S & 6 Ave,3.0,15.4,15 minutes 24 seconds,1.32,5.14,Central Park S & 6 Ave
+Sunday,2 AM,14707,Wyckoff Ave & Jefferson St,3.5,15.1,15 minutes 6 seconds,1.49,5.92,E 33 St & 1 Ave
+Sunday,2 PM,85580,Central Park S & 6 Ave,3.3,15.9,15 minutes 54 seconds,1.46,5.51,Central Park S & 6 Ave
+Sunday,3 AM,10012,10 Ave & W 28 St,3.8,15.2,15 minutes 12 seconds,1.49,5.88,E 31 St & 3 Ave
+Sunday,3 PM,86191,Pier 61 at Chelsea Piers,3.4,16.4,16 minutes 24 seconds,1.34,4.9,Central Park West & W 68 St
+Sunday,4 AM,6332,53 St & Flushing Ave,3.7,14.9,14 minutes 54 seconds,1.49,6.0,6 Ave & W 34 St
+Sunday,4 PM,82821,Central Park West & W 68 St,3.7,16.2,16 minutes 12 seconds,1.32,4.89,Central Park S & 6 Ave
+Sunday,5 AM,4693,53 St & Flushing Ave,3.5,13.4,13 minutes 24 seconds,1.47,6.58,1 Ave & E 68 St
+Sunday,5 PM,82568,Pier 61 at Chelsea Piers,3.7,15.9,15 minutes 54 seconds,1.33,5.02,10 Ave & W 14 St
+Sunday,6 AM,8797,E 81 St & York Ave,2.7,12.6,12 minutes 36 seconds,1.46,6.95,1 Ave & E 68 St
+Sunday,6 PM,82405,10 Ave & W 14 St,3.6,15.5,15 minutes 30 seconds,1.31,5.07,Pier 61 at Chelsea Piers
+Sunday,7 AM,14632,E 33 St & 1 Ave,3.0,12.4,12 minutes 24 seconds,1.35,6.53,1 Ave & E 68 St
+Sunday,7 PM,67661,Pier 61 at Chelsea Piers,4.1,15.6,15 minutes 36 seconds,1.29,4.96,10 Ave & W 14 St
+Sunday,8 AM,24433,Central Park W & W 97 St,3.0,13.2,13 minutes 12 seconds,1.32,6.0,W 21 St & 6 Ave
+Sunday,8 PM,53023,10 Ave & W 14 St,4.0,14.9,14 minutes 54 seconds,1.29,5.19,11 Ave & W 41 St
+Sunday,9 AM,39712,Central Park S & 6 Ave,2.7,13.8,13 minutes 48 seconds,1.31,5.7,Pier 61 at Chelsea Piers
+Sunday,9 PM,40131,10 Ave & W 14 St,3.8,14.5,14 minutes 30 seconds,1.32,5.46,11 Ave & W 41 St
+Thursday,1 AM,9775,6 Ave & W 33 St,4.0,14.1,14 minutes 6 seconds,1.41,6.0,E 7 St & Ave A
+Thursday,1 PM,66755,Central Park S & Grand Army Plaza,2.9,13.7,13 minutes 42 seconds,1.19,5.21,7 Ave & Central Park South
+Thursday,10 AM,56856,W 21 St & 6 Ave,2.0,12.4,12 minutes 24 seconds,1.21,5.85,W 21 St & 6 Ave
+Thursday,10 PM,49968,8 Ave & W 31 St,2.8,14.3,14 minutes 18 seconds,1.51,6.34,Canal St & Rutgers St
+Thursday,11 AM,55190,Central Park S & 6 Ave,2.8,13.2,13 minutes 12 seconds,1.2,5.45,Central Park S & 6 Ave
+Thursday,11 PM,33663,8 Ave & W 31 St,2.8,13.7,13 minutes 42 seconds,1.41,6.18,Ave A & E 14 St
+Thursday,12 AM,18099,Carmine St & 6 Ave,3.8,14.0,14 minutes 0 seconds,1.42,6.09,Hope St & Union Ave
+Thursday,12 PM,60448,W 21 St & 6 Ave,3.1,13.5,13 minutes 30 seconds,1.17,5.2,Broadway & W 58 St
+Thursday,2 AM,5863,11 Ave & W 27 St,4.6,14.7,14 minutes 42 seconds,1.38,5.63,2 Ave & E 29 St
+Thursday,2 PM,70639,Broadway & W 58 St,3.0,13.9,13 minutes 54 seconds,1.62,6.99,W 41 St & 8 Ave
+Thursday,3 AM,3585,10 Ave & W 28 St,4.7,13.5,13 minutes 30 seconds,1.43,6.36,W 41 St & 8 Ave
+Thursday,3 PM,77716,Broadway & W 58 St,2.9,14.4,14 minutes 24 seconds,1.28,5.33,8 Ave & W 31 St
+Thursday,4 AM,4020,6 Ave & W 33 St,3.3,13.1,13 minutes 6 seconds,1.44,6.6,8 Ave & W 31 St
+Thursday,4 PM,94286,North Moore St & Greenwich St,2.5,14.1,14 minutes 6 seconds,1.31,5.57,8 Ave & W 31 St
+Thursday,5 AM,10601,W 41 St & 8 Ave,1.3,10.3,10 minutes 18 seconds,1.38,8.04,E 33 St & 1 Ave
+Thursday,5 PM,132296,E 47 St & Park Ave,2.1,13.9,13 minutes 54 seconds,1.36,5.87,11 Ave & W 41 St
+Thursday,6 AM,29403,1 Ave & E 68 St,0.9,10.1,10 minutes 6 seconds,1.51,8.97,North Moore St & Greenwich St
+Thursday,6 PM,128996,West St & Chambers St,2.2,13.8,13 minutes 48 seconds,1.33,5.78,West St & Chambers St
+Thursday,7 AM,57522,E 33 St & 1 Ave,1.0,10.8,10 minutes 48 seconds,1.33,7.39,E 47 St & Park Ave
+Thursday,7 PM,101891,West St & Chambers St,2.7,14.0,14 minutes 0 seconds,1.29,5.53,West St & Chambers St
+Thursday,8 AM,93453,E 33 St & 1 Ave,1.0,11.4,11 minutes 24 seconds,1.33,7.0,E 47 St & Park Ave
+Thursday,8 PM,76714,West St & Chambers St,2.9,14.4,14 minutes 24 seconds,1.3,5.42,8 Ave & W 31 St
+Thursday,9 AM,76324,W 54 St & 11 Ave,1.4,11.4,11 minutes 24 seconds,1.24,6.53,9 Ave & W 33 St
+Thursday,9 PM,60085,12 Ave & W 40 St,3.4,14.6,14 minutes 36 seconds,1.33,5.47,Canal St & Rutgers St
+Tuesday,1 AM,7625,W 41 St & 8 Ave,5.0,14.2,14 minutes 12 seconds,1.39,5.87,W 41 St & 8 Ave
+Tuesday,1 PM,64698,Broadway & W 58 St,3.0,13.3,13 minutes 18 seconds,1.17,5.28,W 41 St & 8 Ave
+Tuesday,10 AM,54995,Broadway & W 53 St,2.1,12.8,12 minutes 48 seconds,1.21,5.67,Broadway & W 53 St
+Tuesday,10 PM,42684,Greenwich St & W Houston St,2.7,13.7,13 minutes 42 seconds,1.64,7.18,W 43 St & 10 Ave
+Tuesday,11 AM,55844,Broadway & W 53 St,2.6,13.4,13 minutes 24 seconds,1.18,5.28,Broadway & W 53 St
+Tuesday,11 PM,28611,W 4 St & 7 Ave S,3.2,14.1,14 minutes 6 seconds,1.41,6.0,W 43 St & 10 Ave
+Tuesday,12 AM,14841,8 Ave & W 31 St,4.4,14.0,14 minutes 0 seconds,1.43,6.13,Eastern Pkwy & Kingston Ave
+Tuesday,12 PM,62458,Broadway & W 58 St,2.9,13.2,13 minutes 12 seconds,1.14,5.18,W 21 St & 6 Ave
+Tuesday,2 AM,4542,E 9 St & Ave C,6.3,14.8,14 minutes 48 seconds,2.57,10.42,President St & Nostrand Ave
+Tuesday,2 PM,68933,Central Park S & 6 Ave,2.8,13.5,13 minutes 30 seconds,1.76,7.82,W 41 St & 8 Ave
+Tuesday,3 AM,2900,DeKalb Ave & Hudson Ave,5.3,13.7,13 minutes 42 seconds,1.4,6.13,E 7 St & Ave B
+Tuesday,3 PM,77137,9 Ave & W 33 St,2.6,13.7,13 minutes 42 seconds,1.27,5.56,W 31 St & 7 Ave
+Tuesday,4 AM,3689,Columbia St & Rivington St,3.2,12.4,12 minutes 24 seconds,1.44,6.97,8 Ave & W 31 St
+Tuesday,4 PM,98333,North Moore St & Greenwich St,2.2,13.6,13 minutes 36 seconds,1.32,5.82,FDR Drive & E 35 St
+Tuesday,5 AM,12564,W 41 St & 8 Ave,1.3,10.3,10 minutes 18 seconds,1.38,8.04,E 33 St & 1 Ave
+Tuesday,5 PM,148248,E 47 St & Park Ave,1.7,13.4,13 minutes 24 seconds,1.36,6.09,11 Ave & W 41 St
+Tuesday,6 AM,36406,1 Ave & E 68 St,1.0,10.2,10 minutes 12 seconds,1.33,7.82,North Moore St & Greenwich St
+Tuesday,6 PM,133054,West St & Chambers St,2.1,13.5,13 minutes 30 seconds,1.34,5.96,West St & Chambers St
+Tuesday,7 AM,66389,E 33 St & 1 Ave,1.0,10.8,10 minutes 48 seconds,1.35,7.5,E 47 St & Park Ave
+Tuesday,7 PM,104205,West St & Chambers St,2.5,13.5,13 minutes 30 seconds,1.34,5.96,West St & Chambers St
+Tuesday,8 AM,104169,E 33 St & 1 Ave,1.0,11.5,11 minutes 30 seconds,1.34,6.99,9 Ave & W 33 St
+Tuesday,8 PM,75958,West St & Chambers St,2.8,13.4,13 minutes 24 seconds,1.28,5.73,West St & Chambers St
+Tuesday,9 AM,79472,Broadway & W 53 St,1.2,11.6,11 minutes 36 seconds,1.24,6.41,9 Ave & W 33 St
+Tuesday,9 PM,55897,Pier 40 - Hudson River Park,2.8,13.5,13 minutes 30 seconds,1.32,5.87,West St & Chambers St
+Wednesday,1 AM,8121,6 Ave & W 33 St,4.7,14.8,14 minutes 48 seconds,2.07,8.39,W 41 St & 8 Ave
+Wednesday,1 PM,64259,University Pl & E 14 St,2.6,12.7,12 minutes 42 seconds,1.17,5.53,University Pl & E 14 St
+Wednesday,10 AM,55669,Broadway & W 53 St,1.9,12.2,12 minutes 12 seconds,1.21,5.95,Broadway & W 53 St
+Wednesday,10 PM,42564,Carmine St & 6 Ave,2.8,13.8,13 minutes 48 seconds,1.49,6.48,Canal St & Rutgers St
+Wednesday,11 AM,56580,Broadway & W 51 St,2.4,12.7,12 minutes 42 seconds,1.17,5.53,Broadway & W 53 St
+Wednesday,11 PM,29946,W 4 St & 7 Ave S,2.9,14.0,14 minutes 0 seconds,1.42,6.09,Canal St & Rutgers St
+Wednesday,12 AM,16034,Norfolk St & Broome St,3.6,14.4,14 minutes 24 seconds,1.43,5.96,Canal St & Rutgers St
+Wednesday,12 PM,62820,University Pl & E 14 St,2.7,12.4,12 minutes 24 seconds,1.15,5.56,W 21 St & 6 Ave
+Wednesday,2 AM,4785,Mercer St & Spring St,5.2,14.7,14 minutes 42 seconds,1.44,5.88,W 47 St & 9 Ave
+Wednesday,2 PM,68349,W 21 St & 6 Ave,2.5,13.2,13 minutes 12 seconds,1.46,6.64,W 41 St & 8 Ave
+Wednesday,3 AM,3025,W 40 St & 7 Ave,5.4,14.4,14 minutes 24 seconds,1.4,5.83,Eastern Pkwy & Washington Ave
+Wednesday,3 PM,76123,W 21 St & 6 Ave,2.6,13.6,13 minutes 36 seconds,1.26,5.56,W 31 St & 7 Ave
+Wednesday,4 AM,3503,Columbia St & Rivington St,3.1,12.3,12 minutes 18 seconds,1.46,7.12,University Pl & E 14 St
+Wednesday,4 PM,96546,North Moore St & Greenwich St,2.3,13.6,13 minutes 36 seconds,1.32,5.82,W 31 St & 7 Ave
+Wednesday,5 AM,11900,W 41 St & 8 Ave,1.2,10.3,10 minutes 18 seconds,1.35,7.86,E 33 St & 1 Ave
+Wednesday,5 PM,142805,E 47 St & Park Ave,1.8,13.5,13 minutes 30 seconds,1.35,6.0,11 Ave & W 41 St
+Wednesday,6 AM,34435,6 Ave & W 33 St,0.9,10.2,10 minutes 12 seconds,2.11,12.41,North Moore St & Greenwich St
+Wednesday,6 PM,144044,West St & Chambers St,1.9,13.5,13 minutes 30 seconds,1.33,5.91,West St & Chambers St
+Wednesday,7 AM,64472,E 33 St & 1 Ave,1.0,10.7,10 minutes 42 seconds,1.33,7.46,E 47 St & Park Ave
+Wednesday,7 PM,112165,West St & Chambers St,2.4,13.4,13 minutes 24 seconds,1.28,5.73,West St & Chambers St
+Wednesday,8 AM,99498,W 43 St & 10 Ave,1.0,11.3,11 minutes 18 seconds,1.33,7.06,E 47 St & Park Ave
+Wednesday,8 PM,81837,West St & Chambers St,2.6,13.3,13 minutes 18 seconds,1.28,5.77,West St & Chambers St
+Wednesday,9 AM,76040,9 Ave & W 33 St,1.2,11.2,11 minutes 12 seconds,1.24,6.64,9 Ave & W 33 St
+Wednesday,9 PM,55315,Metropolitan Ave & Bedford Ave,2.8,13.3,13 minutes 18 seconds,1.28,5.77,11 Ave & W 41 St
