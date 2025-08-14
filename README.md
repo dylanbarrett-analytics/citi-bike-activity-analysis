@@ -154,7 +154,7 @@ Below is a complete list of files that are included in this repository:
   - most common start station
   - most common end station
   - loop trip rate (% of trips starting at ending at same station)
-    - excluded from final dashboard since percentages were too low to have any significant impact on overall story
+    > <sub> This was excluded from the final dashboard since percentages were too low to have any significant impact on the overall story.
   - average trip duration (in minutes)
   - average trip distance (in miles, via Haversine formula)
   - average speed (mph)
