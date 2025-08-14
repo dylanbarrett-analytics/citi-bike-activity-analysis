@@ -83,7 +83,7 @@ Below is a complete list of files that are included in this repository:
   Heatmap dataset for all day/hour combinations
 
 ### Documentation
-- [`README.md`](https://github.com/dylanbarrett-analytics/citi-bike-activity-analysis/blob/main/README.md)  
+- `README.md`
   Project documentation
 
 ---
