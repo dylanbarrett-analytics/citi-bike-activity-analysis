@@ -8,7 +8,7 @@ Data can reveal insights, but it can also create an atmosphere.
 
 A **bike share usage analysis** of this nature reveals patterns in how riders interact with the city's cycling network over time and across locations, painting a picture of its daily pulse and energy.
 
-By understanding these patterns, it is possible to discover **when and where** demand peaks, how long trips last, and how station usage changes throughout the day and week.
+By understanding these patterns, it is possible to discover **when and where** demand peaks, how long trips last, and how bike station usage changes throughout the day and week.
 
 This project analyzes **Citi Bike** trip data for New York City during **July-August 2024**, the two full summer months when bike usage typically peaks.
 
